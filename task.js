@@ -14,7 +14,6 @@ addTask.addEventListener("click", function() {
         let newTask = {
             text: taskText, 
             timeStamp: new Date().toISOString(), 
-            completed: false  
         };
 
         tasks.push(newTask);
