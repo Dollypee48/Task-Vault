@@ -81,6 +81,13 @@ li{
 }
 
 .light-mode .taskManagement{
-    background-color: white;
+   
     color: black;
+    
 }
+
+.light-mode .header{
+    color: white;
+    
+}
+
