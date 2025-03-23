@@ -13,6 +13,9 @@ body{
     max-width: 35rem;
     text-align: center;
     background-color: #333;
+    background-image: url(https://shorturl.at/WvVCi);
+    background-size: cover;
+    background-blend-mode: overlay;
     color: #fff;
     padding: 20px;
     border-radius: 10px;
@@ -23,9 +26,15 @@ body{
     flex-direction: column;
 }
 
-h1{
-    color: rgb(11, 102, 124);
+.header{
+    color:white;
 }
+
+span{
+    color: rgb(36, 188, 226);
+}
+
+
 
 input{
     width: 100%;
