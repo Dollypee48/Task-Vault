@@ -14,7 +14,7 @@ body{
     text-align: center;
     background-color: #333;
     background-image: url(https://shorturl.at/WvVCi);
-    background-size: cover;
+    background-size: contain;
     background-blend-mode: overlay;
     color: #fff;
     padding: 20px;
